@@ -3,7 +3,6 @@ This project is a comprehensive data-cleaning workflow using Power Query in Exce
 Data_Preprocessing
 Data Cleaning Using Power Query – Excel
 
-This project demonstrates a complete data preprocessing workflow carried out in Microsoft Excel using the Power Query Editor. The original dataset contained several common real-world data quality issues, which were systematically cleaned and transformed to produce a consistent, analysis-ready dataset.
 
 🔧 Cleaning & Pre-Processing Tasks
 
